@@ -50,9 +50,7 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
 *.log
-local_settings.py
 
 # Flask stuff:
 instance/
@@ -66,9 +64,6 @@ docs/_build/
 
 # PyBuilder
 target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
 
 # pyenv
 .python-version
@@ -99,3 +94,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.idea
